@@ -81,9 +81,13 @@ Open CloudFront distribution URL in browser
 - Static web deployment on cloud
 - AWS networking basics
 ----
-![image alt](<img width="1826" height="1000" alt="image" src="https://github.com/user-attachments/assets/2fcac32f-979a-45d7-87ad-f0bc9604cec0" />)
-![image alt](<img width="1831" height="1002" alt="image" src="https://github.com/user-attachments/assets/5e51ffaf-639e-47ab-bbbd-6d5e97b44ee6" />)
-![image alt](<img width="1819" height="1006" alt="image" src="https://github.com/user-attachments/assets/84ac7c8b-d35e-49a8-ab72-056588a13564" />)
+#  **Images**
+![image alt](https://github.com/cloud-srushti/EV-Bike-Booking/blob/2d265f5594def0e26f00bc88e7a21d64ca09cc80/Screenshot%202026-05-07%20123455.png)
+![image alt](https://github.com/cloud-srushti/EV-Bike-Booking/blob/2d265f5594def0e26f00bc88e7a21d64ca09cc80/Screenshot%202026-05-07%20123521.png)
+![image alt](https://github.com/cloud-srushti/EV-Bike-Booking/blob/2d265f5594def0e26f00bc88e7a21d64ca09cc80/Screenshot%202026-05-07%20123601.png)
+
+---
+
 
 
 
