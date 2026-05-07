@@ -81,6 +81,9 @@ Open CloudFront distribution URL in browser
 - Static web deployment on cloud
 - AWS networking basics
 ----
+![image alt](<img width="1826" height="1000" alt="image" src="https://github.com/user-attachments/assets/2fcac32f-979a-45d7-87ad-f0bc9604cec0" />)
+![image alt](<img width="1831" height="1002" alt="image" src="https://github.com/user-attachments/assets/5e51ffaf-639e-47ab-bbbd-6d5e97b44ee6" />)
+![image alt](<img width="1819" height="1006" alt="image" src="https://github.com/user-attachments/assets/84ac7c8b-d35e-49a8-ab72-056588a13564" />)
 
 
 
